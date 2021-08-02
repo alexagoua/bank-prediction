@@ -6,8 +6,8 @@ from sklearn.model_selection import train_test_split
 
 
 st.write('''
-# Application pour prévoir les abonnements des clients 
-Cette application prédit si un client reste ou part de la banque
+# Application pour prédire les abonnements des clients 
+Cette application prédit si un client restera un abonné ou se désabonnera de la banque
 ''')
 
 st.sidebar.header("Les paramètres d'entrée")
